@@ -1,0 +1,1 @@
+teste de contador de palavras contador
